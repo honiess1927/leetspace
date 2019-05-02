@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [60 Permutation Sequence](README.md)
 
